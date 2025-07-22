@@ -1,0 +1,92 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# === Virtual Environments ===
+env/
+venv/
+.venv/
+ENV/
+.Python
+pip-log.txt
+
+# === Logs & Outputs ===
+*.log
+*.out
+*.tmp
+*.bak
+*.db
+*.sqlite3
+*.pid
+
+# === TraceHunter Generated Files ===
+reports/
+output/
+dump/
+artifacts/
+cache/
+osint_output/
+*.csv
+*.json
+*.xml
+
+# === Secrets & Configs ===
+secrets.env
+.env
+.env.*
+config.yaml
+config.json
+apikeys.txt
+
+# === IDE & OS Junk ===
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Testing & Coverage ===
+.coverage
+.cache/
+.tox/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+htmlcov/
+
+# === GitHub & Markdown Preview Caches ===
+*.ipynb_checkpoints
+*.md.html
+
+# === Sample Evidence Files ===
+/evidence/
+/test_artifacts/
+/sample_data/
+/*.img
+*.vhd
+*.raw
+
+# === Binary/Executable Dumps ===
+*.exe
+*.dll
+*.bin
+*.o
+*.a
+*.class
+*.jar
+
+# === OSINT Tools Temp Files ===
+theHarvester/
+amass_output/
+sublist3r_output/
+shodan_results/
