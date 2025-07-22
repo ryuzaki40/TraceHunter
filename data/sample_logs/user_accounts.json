@@ -1,0 +1,12 @@
+[
+    {
+        "username": "carryminati",
+        "email": "carry@example.com",
+        "created_at": "2022-02-10T10:20:30"
+    },
+    {
+        "username": "notcarry",
+        "email": "anonymous@protonmail.com",
+        "created_at": "2023-07-12T18:45:00"
+    }
+]

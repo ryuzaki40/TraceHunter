@@ -1,0 +1,12 @@
+[
+    {
+        "filename": "secret_notes.txt",
+        "path": "/Users/carry/Documents/secret_notes.txt",
+        "recovered": true
+    },
+    {
+        "filename": "todo_list.docx",
+        "path": "/Users/carry/Desktop/todo_list.docx",
+        "recovered": false
+    }
+]
